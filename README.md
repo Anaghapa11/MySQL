@@ -1,7 +1,7 @@
 # MySQL
 MySQL Assignments
 # Assignment 1
-A Assignment one is about performing DDL commands in Mysql.
+Assignment one is about performing DDL commands in Mysql.
 
 # Steps done
 By performing DDL Commands(CREATE,ALTER,DROP,RENAME,TRUNCATE);
