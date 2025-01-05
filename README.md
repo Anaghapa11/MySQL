@@ -29,3 +29,15 @@ By performing DDL constraints(Primary key,Unique,Not null);
 7. Update a row
 8. using drop remove the table.
 
+# Assignment 3
+A Assignment three is about performing DML constraints in Mysql.
+
+# Steps done
+By performing DML constraints(check,Not null);
+1. create the table Managers.
+2. insert data into the table
+3. Retrieving the name and date of birth of the manager
+4. Displaying annual income.
+5. Displaying records of all managers except "aaliya"
+6. Displaying details of managers whose department is IT and earns more than 25000 per month
+7. display details of manager whose salary is between 10000 and 35000.
