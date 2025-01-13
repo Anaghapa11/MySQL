@@ -60,3 +60,24 @@ Querying data
 10. Find all persons not from the countries 'INDIA', and 'AUSTRALIA'.
 11. Find all countries with a population between 5 lakhs and 20 lakhs.
 12. Find all countries whose names do not start with C.
+
+
+# Assignment 5
+Assignment five is about sorting and grouping data in My Sql.
+
+# Steps done
+1. create the Database.
+2. create tables person and country.
+3. Print the first three characters of Country_name from the Country table.
+4. Concatenate first name and last name from Persons table. 
+5. Count the number of unique country names from Persons table. 
+6. Print the maximum population from the Country table.
+7. Print the minimum population from Persons table.
+8. Insert 2 new rows to the Persons table making the Lname NULL. Then implement another query to count Lname from Persons table.
+9. Find the number of rows in the Persons table. 
+10. Print the population of the Country table for the first 3 rows. 
+11. Print 3 random rows of countries.
+12. Print all persons ordered by their rating in descending order.
+13. Find the total population for each country in the Persons table.
+14. Find countries in the Persons table with a total population greater than 50,000.
+15. List the total number of persons and average rating for each country,but only for countries with more than 2 persons, ordered by the average rating in ascending order.
