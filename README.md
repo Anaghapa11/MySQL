@@ -93,3 +93,18 @@ Assignment Six is about performing joins and unions in My Sql.
 4. Printed all distinct country names from both the Country and Persons tables.
 5. Printed all country names from both the Country and Persons tables, including duplicates.
 6. Rounded the ratings of all persons to the nearest integer in the Persons table.
+
+
+# Assignment 7
+Assignment Seven is about performing Functions in My Sql.
+
+# Steps done
+1. Create the Database.
+2. Create tables person and country.
+3. Add a new column called DOB in Persons table with data type as Date.
+4. Add user-defined function to calculate age using DOB. 
+5. Implement select query to fetch the Age of all persons using the function that has been created.
+6. Add the query to find the length of each country name in the Country table.
+7. Extracted the first three characters of each country's name in the Country table.
+8. Converted all country names to uppercase and lowercase in the Country table.
+
