@@ -81,3 +81,15 @@ Assignment five is about sorting and grouping data in My Sql.
 13. Find the total population for each country in the Persons table.
 14. Find countries in the Persons table with a total population greater than 50,000.
 15. List the total number of persons and average rating for each country,but only for countries with more than 2 persons, ordered by the average rating in ascending order.
+
+
+# Assignment 6
+Assignment Six is about performing joins and unions in My Sql.
+
+# Steps done
+1. Create the Database.
+2. Create tables person and country.
+3. Performing inner join, Left join, and Right join on the tables.
+4. Printed all distinct country names from both the Country and Persons tables.
+5. Printed all country names from both the Country and Persons tables, including duplicates.
+6. Rounded the ratings of all persons to the nearest integer in the Persons table.
