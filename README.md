@@ -108,3 +108,40 @@ Assignment Seven is about performing Functions in My Sql.
 7. Extracted the first three characters of each country's name in the Country table.
 8. Converted all country names to uppercase and lowercase in the Country table.
 
+# Assignment 8
+Assignment eight is about performing Subqueries and Views in My Sql.
+
+# Steps done
+1. Create the Database.
+2. Create tables person and country.
+3.find the number of persons in each country and sorted from high to low.
+4. Find out an average rating for Persons in respective countries if the average is greater than 3.0.
+5. Find the countries with the same rating as the USA.
+6. Select all countries whose population is greater than the average population of all nations.
+7.create another database called product and table called custumer.
+8.Created 3 views for customer_info,US_Customers and Customer_details.
+9.Performed queries to select data from the views, update phone numbers for California customers, and count the number of customers by state.
+10.Verified the inserted data by running SELECT queries on the Customer, customer_info, US_Customers, and Customer_details views.
+
+
+# Assignment 9
+Assignment nine is about performing Stored Procedures in My Sql.
+
+# Steps done
+1. Create table named Worker.
+2. Stored Prcedure to Add a New Worker.
+3. To add a new worker to the Worker table.
+4. To retrieve the salary of a worker by WORKER_ID.
+5. To takes WORKER_ID and DEPARTMENT as input parameters and updates the worker's department.
+
+
+# Assignment 10
+Assignment Ten is about performing Triggers in My Sql.
+
+# Steps done
+1. Create teachers table and insert 8 rows.
+2. Teachers Table contains columns for id, name, subject, experience, and salary.
+3. Before Insert Trigger Prevents inserting a row with a negative salary by raising an error.
+4. After Insert Trigger Logs the insertion of a new teacher by adding an entry to the teacher_log table with the teacher’s ID, action type, and timestamp.
+5. Before Delete Trigger Prevents the deletion of a teacher who has more than 10 years of experience by raising an error.
+6. After Delete Trigger Logs deletions in the teacher_log table, similar to the insert action.
