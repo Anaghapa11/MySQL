@@ -145,3 +145,23 @@ Assignment Ten is about performing Triggers in My Sql.
 4. After Insert Trigger Logs the insertion of a new teacher by adding an entry to the teacher_log table with the teacher’s ID, action type, and timestamp.
 5. Before Delete Trigger Prevents the deletion of a teacher who has more than 10 years of experience by raising an error.
 6. After Delete Trigger Logs deletions in the teacher_log table, similar to the insert action.
+
+
+
+# Assignment 11-Library Management System
+Assignment Eleven is to build a project based on Library Management System.
+
+# Steps done
+1. Create a database named library and  Tables in the database: a. Branch b. Employee c. Books d. Customer e. IssueStatus f. ReturnStatus.
+2. Retrieve the book title, category, and rental price of all available books. 
+3. List the employee names and their respective salaries in descending order of salary.
+4. Retrieve the book titles and the corresponding customers who have issued those books. 
+5. Display the total count of books in each category. 
+6. Retrieve the employee names and their positions for the employees whose salaries are above Rs.50,000.
+7. List the customer names who registered before 2022-01-01 and have not issued any books yet.
+8. Display the branch numbers and the total count of employees in each branch.
+9. Display the names of customers who have issued books in the month of June 2023.
+10. Retrieve book_title from book table containing history. 
+11. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
+12. Retrieve the names of employees who manage branches and their respective branch addresses.
+13. Display the names of customers who have issued books with a rental price higher than Rs. 25.
